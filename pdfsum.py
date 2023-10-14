@@ -68,5 +68,8 @@ class MainWindow(QMainWindow):
 
 if __name__ == '__main__':
     # Create and show main window
+    app = QApplication([])
+    
+    
 
 
