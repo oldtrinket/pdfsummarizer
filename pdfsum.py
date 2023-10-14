@@ -66,9 +66,4 @@ class MainWindow(QMainWindow):
                 self.summary_text_edit.setPlainText('There was an error processing the file.')
 
 
-if __name__ == '__main__':
-    # Create and show main window
-    app = QApplication([])
-    main_window = MainWindow()
-    main_window.show()
-    app.exec_()
+
