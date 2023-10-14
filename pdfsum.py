@@ -71,6 +71,8 @@ if __name__ == '__main__':
     app = QApplication([])
     main_window = MainWindow()
     main_window = MainWindow()
+    app.exec_()
+   
     
     
     
