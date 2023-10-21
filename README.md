@@ -51,4 +51,4 @@ If you encounter errors related to PyPDF2, make sure you have installed the corr
     `pip install pypdf2==1.26.0.`
     
 
-If you receive a "RateLimitError" from the OpenAI API, it means you have exceeded your current quota. Check your plan and billing details, or wait until your quota 
+If you receive a "RateLimitError" from the OpenAI API, it means you have exceeded your current quota. Check your plan and billing details, or wait until your quota resets.
