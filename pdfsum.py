@@ -1,5 +1,5 @@
 
-import openai
+import opena
 import os
 import PyPDF2
 from PyQt5.QtWidgets import QApplication, QFileDialog, QMainWindow, QPushButton, QTextEdit, QLabel
