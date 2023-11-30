@@ -4,7 +4,7 @@ PDF Summarizer is a simple Python application that summarizes the contents of a 
 
 <h2>Requirements</h2>
 
-Python 3.6 or l
+Python 3.6 or 
 
 PyQt5
 
