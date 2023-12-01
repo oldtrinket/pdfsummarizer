@@ -1,4 +1,4 @@
-<H1>PDF Summarize</h1>
+<H1>PDF Summarizer</h1>
 
 PDF Summarizer is a simple Python application that summarizes the contents of a single PDF file using OpenAI's language model API. If you want to summarize multiple PDF files, you will need to run the app for each file separately.The app has a graphical user interface built with PyQt5, which allows the user to select a PDF file, and then displays a summary of the contents in a text edit widget. 
 
